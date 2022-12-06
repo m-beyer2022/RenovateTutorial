@@ -4,3 +4,6 @@
     "config:base"
   ]
 }
+{
+  "prHourlyLimit": 3
+}
